@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NithikaWick&label=Profile%20views&color=0e75b6&style=flat" alt="NithikaWick" /> </p>
 
 
-🌱Currently I am a Computer Science undergraduate in IIT Sri Lanka <br>collab. with university of Westminster.💻<br><br>
+🌱Currently I am a Computer Science undergraduate in IIT Sri Lanka collab. with university of Westminster.💻<br><br>
 
 
 ## 🌐 Socials:
