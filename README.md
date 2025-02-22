@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/9aa127e4ccc6105c73df89829816ebb18c2d629394b2ea8c8873a59a3af1cc71/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f37393733313536383039373539392e356235306263613437373733352e6a7067)]()
 <h1 align="center">  Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nithika Wickramasinghe</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NithikaWick&label=Profile%20views&color=0e75b6&style=flat" alt="NithikaWick" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=NithikaWick&label=Profile%20views&color=0e75b6&style=flat" alt="NithikaWick" /> </p>
 <div style=" margin-left: 20px;"><img align="right" alt="Coding" width="190" src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif"></div><br>
 <h4>🌱Currently I am a Computer Science undergraduate in <b>IIT</b> Sri Lanka <br>collab. with <b>university of Westminster</b>.💻<br><br></h4>
 
