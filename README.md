@@ -2,7 +2,9 @@
 <h1 align="center">  Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nithika Wickramasinghe</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=NithikaWick&label=Profile%20views&color=0e75b6&style=flat" alt="NithikaWick" /> </p>
 <div style=" margin-left: 20px;"><img align="right" alt="Coding" width="190" src="https://user-images.githubusercontent.com/74038190/212900420-11d6daeb-4bcd-474f-ad58-86c47d25b541.gif"></div><br>
-<h3>🌱Currently I am a Computer Science undergraduate in <b>IIT</b> Sri Lanka <br>collab. with <b>university of Westminster</b>.💻<br><br></h3>
+<h3>🌱Currently I am a Associate Software Engineer and a Computer Science <br>undergraduate 
+  <!-- in <b>IIT</b> Sri Lanka <br>collab. with <b>university of Westminster</b>. -->
+  💻<br><br></h3>
 
 
 
